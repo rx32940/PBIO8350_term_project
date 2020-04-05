@@ -1,0 +1,441 @@
+Sample,coverage,# contigs,Total length,N50,species,biosample_name,institute
+SAMEA104369441,76.0,192,4606379,42877,Leptospira interrogans,Leptospira interrogans serovar Manilae,Institut Pasteur
+SAMEA5168039,59.0,145,4597940,60465,Leptospira interrogans,Leptospira interrogans serovar Canicola,Institut Pasteur
+SAMEA5168040,53.0,83,4621265,116959,Leptospira interrogans,Leptospira interrogans serovar Copenhageni,Institut Pasteur
+SAMEA5168050,53.0,253,4944848,38110,Leptospira interrogans,Leptospira interrogans,Institut Pasteur
+SAMEA5168052,67.0,127,4782949,55349,Leptospira interrogans,Leptospira interrogans,Institut Pasteur
+SAMEA5168053,72.0,122,4848873,77083,Leptospira interrogans,Leptospira interrogans,Institut Pasteur
+SAMEA5168085,81.0,118,4662208,76677,Leptospira interrogans,Leptospira interrogans,Institut Pasteur
+SAMEA5168086,70.0,113,4888626,99198,Leptospira interrogans,Leptospira interrogans,Institut Pasteur
+SAMEA5168088,44.0,249,4826214,41801,Leptospira interrogans,Leptospira interrogans serovar Canicola,Institut Pasteur
+SAMEA5168126,49.0,141,4522193,66722,Leptospira interrogans,Leptospira interrogans,Institut Pasteur
+SAMEA5168127,39.0,346,4505068,25508,Leptospira interrogans,Leptospira interrogans serovar Icterohaemorrhagiae,Institut Pasteur
+SAMEA5168151,104.0,258,4510165,31797,Leptospira interrogans,Leptospira interrogans,Institut Pasteur
+SAMEA5168152,84.0,235,4513958,34219,Leptospira interrogans,Leptospira interrogans,Institut Pasteur
+SAMEA5168153,85.0,275,4514381,29422,Leptospira interrogans,Leptospira interrogans,Institut Pasteur
+SAMEA5168160,169.0,234,4510246,36358,Leptospira interrogans,Leptospira interrogans,Institut Pasteur
+SAMEA5168161,82.0,109,4784634,78217,Leptospira interrogans,Leptospira interrogans,Institut Pasteur
+SAMEA5168166,128.0,125,4604927,59513,Leptospira interrogans,Leptospira interrogans serovar Manilae,Institut Pasteur
+SAMEA5168169,54.0,271,4867034,33705,Leptospira interrogans,Leptospira interrogans,Institut Pasteur
+SAMEA5168176,60.0,478,4669459,19276,Leptospira interrogans,Leptospira interrogans,Institut Pasteur
+SAMEA5168180,56.0,372,4652645,23649,Leptospira interrogans,Leptospira interrogans,Institut Pasteur
+SAMEA5168181,138.0,445,4826109,37089,Leptospira interrogans,Leptospira interrogans,Institut Pasteur
+SAMEA5168184,77.0,275,4545706,31908,Leptospira interrogans,Leptospira interrogans,Institut Pasteur
+SAMEA5168187,100.0,223,4561378,44237,Leptospira interrogans,Leptospira interrogans serovar Kennewicki,Institut Pasteur
+SAMEA5168191,121.0,173,4728092,60864,Leptospira interrogans,Leptospira interrogans,Institut Pasteur
+SAMEA5168192,121.0,132,4646083,71315,Leptospira interrogans,Leptospira interrogans,Institut Pasteur
+SAMEA5168193,54.0,442,4805053,21183,Leptospira interrogans,Leptospira interrogans serovar Bangkok,Institut Pasteur
+SAMEA5168197,66.0,305,4782422,31091,Leptospira interrogans,Leptospira interrogans serovar Lora,Institut Pasteur
+SAMEA5168198,97.0,132,4638056,62338,Leptospira interrogans,Leptospira interrogans serovar Muenchen,Institut Pasteur
+SAMEA5168203,127.0,255,4904434,42277,Leptospira interrogans,Leptospira interrogans serovar Grippotyphosa,Institut Pasteur
+SAMEA5168205,94.0,191,4561784,44699,Leptospira interrogans,Leptospira interrogans serovar Valbuzzi,Institut Pasteur
+SAMEA5168207,77.0,427,4718397,21581,Leptospira interrogans,Leptospira interrogans serovar Muelleri,Institut Pasteur
+SAMEA5168208,102.0,405,4982840,23071,Leptospira interrogans,Leptospira interrogans serovar Grippotyphosa,Institut Pasteur
+SAMEA5168212,94.0,134,4514529,62241,Leptospira interrogans,Leptospira interrogans,Institut Pasteur
+SAMEA5168213,55.0,158,4510787,52366,Leptospira interrogans,Leptospira interrogans,Institut Pasteur
+SAMEA5168215,69.0,131,4519884,62603,Leptospira interrogans,Leptospira interrogans,Institut Pasteur
+SAMEA5168217,62.0,161,4514324,54671,Leptospira interrogans,Leptospira interrogans,Institut Pasteur
+SAMEA5168218,65.0,205,4514151,38456,Leptospira interrogans,Leptospira interrogans,Institut Pasteur
+SAMEA5168222,81.0,379,4464893,21590,Leptospira interrogans,Leptospira interrogans,Institut Pasteur
+SAMEA5168235,110.0,243,4757779,35804,Leptospira interrogans,Leptospira interrogans,Institut Pasteur
+SAMEA5168240,51.0,279,4686573,31641,Leptospira interrogans,Leptospira interrogans serovar Hawain,Institut Pasteur
+SAMEA5168253,76.0,134,5012834,71058,Leptospira interrogans,Leptospira interrogans serovar Bangkok,Institut Pasteur
+SAMEA5168254,90.0,217,4875345,41007,Leptospira interrogans,Leptospira interrogans serovar Hawain,Institut Pasteur
+SAMEA5168255,50.0,361,4987090,35456,Leptospira interrogans,Leptospira interrogans serovar Fugis,Institut Pasteur
+SAMEA5168256,51.0,214,5378406,57384,Leptospira interrogans,Leptospira interrogans serovar Jalna,Institut Pasteur
+SAMEA5168257,54.0,337,5137822,43513,Leptospira interrogans,Leptospira interrogans serovar Fugis,Institut Pasteur
+SAMEA5168259,66.0,214,4578621,40800,Leptospira interrogans,Leptospira interrogans serovar Valbuzzi,Institut Pasteur
+SAMEA5168260,47.0,457,5113826,23165,Leptospira interrogans,Leptospira interrogans,Institut Pasteur
+SAMEA5168262,68.0,188,4739062,50752,Leptospira interrogans,Leptospira interrogans,Institut Pasteur
+SAMEA5168263,43.0,241,5067718,44740,Leptospira interrogans,Leptospira interrogans,Institut Pasteur
+SAMEA5168267,43.0,190,5147038,51539,Leptospira interrogans,Leptospira interrogans,Institut Pasteur
+SAMEA5168269,76.0,446,4724826,19623,Leptospira interrogans,Leptospira interrogans,Institut Pasteur
+SAMEA5168273,122.0,173,4857757,52423,Leptospira interrogans,Leptospira interrogans,Institut Pasteur
+SAMEA5168309,70.0,139,4906321,86168,Leptospira interrogans,Leptospira interrogans,Institut Pasteur
+SAMEA5168319,68.0,149,5014448,79578,Leptospira interrogans,Leptospira interrogans,Institut Pasteur
+SAMEA5168338,95.0,125,4517112,63441,Leptospira interrogans,Leptospira interrogans,Institut Pasteur
+SAMEA5168339,93.0,131,4521722,66319,Leptospira interrogans,Leptospira interrogans,Institut Pasteur
+SAMEA5168340,85.0,122,4519516,77049,Leptospira interrogans,Leptospira interrogans,Institut Pasteur
+SAMEA5168341,108.0,123,4519917,72541,Leptospira interrogans,Leptospira interrogans,Institut Pasteur
+SAMEA5168342,93.0,124,4517912,71561,Leptospira interrogans,Leptospira interrogans,Institut Pasteur
+SAMEA5168343,96.0,125,4517003,68623,Leptospira interrogans,Leptospira interrogans,Institut Pasteur
+SAMEA5168344,223.0,119,4523427,71252,Leptospira interrogans,Leptospira interrogans,Institut Pasteur
+SAMN03944914,81.0,319,4544380,28648,Leptospira interrogans,Leptospira interrogans,Wellcome Sanger Institute
+SAMN03996887,90.0,316,4542750,28134,Leptospira interrogans,Leptospira interrogans,Wellcome Sanger Institute
+SAMN03996952,123.0,309,4542700,29686,Leptospira interrogans,Leptospira interrogans,Wellcome Sanger Institute
+SAMN03996955,153.0,317,4542419,28786,Leptospira interrogans,Leptospira interrogans,Wellcome Sanger Institute
+SAMN03997006,67.0,320,4542896,26234,Leptospira interrogans,Leptospira interrogans,Wellcome Sanger Institute
+SAMN03997015,85.0,324,4543879,28648,Leptospira interrogans,Leptospira interrogans,Wellcome Sanger Institute
+SAMN03998754,101.0,319,4543029,29300,Leptospira interrogans,Leptospira interrogans,Wellcome Sanger Institute
+SAMN03998756,118.0,314,4542033,29311,Leptospira interrogans,Leptospira interrogans,Wellcome Sanger Institute
+SAMN03998757,73.0,327,4542912,26060,Leptospira interrogans,Leptospira interrogans,Wellcome Sanger Institute
+SAMN04002971,65.0,327,4543943,28135,Leptospira interrogans,Leptospira interrogans,Wellcome Sanger Institute
+SAMN04009367,149.0,309,4542959,29310,Leptospira interrogans,Leptospira interrogans,Wellcome Sanger Institute
+SAMN04090017,86.0,320,4543534,29193,Leptospira interrogans,Leptospira interrogans,Wellcome Sanger Institute
+SAMN04090071,81.0,320,4542635,28648,Leptospira interrogans,Leptospira interrogans,Wellcome Sanger Institute
+SAMN04090075,92.0,319,4542556,28134,Leptospira interrogans,Leptospira interrogans,Wellcome Sanger Institute
+SAMN04102140,59.0,327,4532274,26060,Leptospira interrogans,Leptospira interrogans,Wellcome Sanger Institute
+SAMN04102160,128.0,324,4544034,28061,Leptospira interrogans,Leptospira interrogans,Wellcome Sanger Institute
+SAMN04102260,118.0,312,4543357,29311,Leptospira interrogans,Leptospira interrogans,Wellcome Sanger Institute
+SAMN04116739,103.0,317,4533773,28645,Leptospira interrogans,Leptospira interrogans,Wellcome Sanger Institute
+SAMN04116740,85.0,319,4542951,28645,Leptospira interrogans,Leptospira interrogans,Wellcome Sanger Institute
+SAMN04116742,111.0,312,4543102,29686,Leptospira interrogans,Leptospira interrogans,Wellcome Sanger Institute
+SAMN04145567,99.0,325,4542326,27556,Leptospira interrogans,Leptospira interrogans,Wellcome Sanger Institute
+SAMN04145570,126.0,309,4531600,29686,Leptospira interrogans,Leptospira interrogans,Wellcome Sanger Institute
+SAMN04145571,124.0,316,4543342,29308,Leptospira interrogans,Leptospira interrogans,Wellcome Sanger Institute
+SAMN04145899,137.0,312,4542164,29686,Leptospira interrogans,Leptospira interrogans,Wellcome Sanger Institute
+SAMN04145914,74.0,324,4543058,26234,Leptospira interrogans,Leptospira interrogans,Wellcome Sanger Institute
+SAMN04145947,128.0,311,4542409,29311,Leptospira interrogans,Leptospira interrogans,Wellcome Sanger Institute
+SAMN04145962,116.0,317,4543102,27003,Leptospira interrogans,Leptospira interrogans,Wellcome Sanger Institute
+SAMN04145963,112.0,316,4542163,29300,Leptospira interrogans,Leptospira interrogans,Wellcome Sanger Institute
+SAMN04158468,121.0,103,4555267,75994,Leptospira interrogans,Leptospira interrogans,Wellcome Sanger Institute
+SAMN04158538,122.0,92,4561597,91213,Leptospira interrogans,Leptospira interrogans,Wellcome Sanger Institute
+SAMEA1012006,958.0,169,4860223,71282,Leptospira interrogans,Leptospira interrogans serovar Autumnalis,Wellcome Sanger Institute
+SAMEA1012014,493.0,479,5056278,50999,Leptospira interrogans,Leptospira interrogans serovar Autumnalis,Wellcome Sanger Institute
+SAMEA1012026,514.0,282,4910299,71068,Leptospira interrogans,Leptospira interrogans serovar Autumnalis,Wellcome Sanger Institute
+SAMEA864081,50.0,199,4590761,37237,Leptospira interrogans,Leptospira interrogans serovar Autumnalis,Wellcome Sanger Institute
+SAMEA864082,54.0,164,4595568,48361,Leptospira interrogans,Leptospira interrogans serovar Autumnalis,Wellcome Sanger Institute
+SAMEA864083,64.0,140,4599901,64189,Leptospira interrogans,Leptospira interrogans serovar Autumnalis,Wellcome Sanger Institute
+SAMEA864084,56.0,145,4600747,50307,Leptospira interrogans,Leptospira interrogans serovar Autumnalis,Wellcome Sanger Institute
+SAMEA864085,52.0,158,4598766,49565,Leptospira interrogans,Leptospira interrogans serovar Autumnalis,Wellcome Sanger Institute
+SAMEA864086,63.0,144,4599644,50307,Leptospira interrogans,Leptospira interrogans serovar Autumnalis,Wellcome Sanger Institute
+SAMEA864090,23.0,249,4584320,32026,Leptospira interrogans,Leptospira interrogans serovar Autumnalis,Wellcome Sanger Institute
+SAMEA864092,93.0,124,4606261,65208,Leptospira interrogans,Leptospira interrogans serovar Autumnalis,Wellcome Sanger Institute
+SAMEA864094,84.0,122,4605657,69051,Leptospira interrogans,Leptospira interrogans serovar Autumnalis,Wellcome Sanger Institute
+SAMEA864095,79.0,122,4605365,65229,Leptospira interrogans,Leptospira interrogans serovar Autumnalis,Wellcome Sanger Institute
+SAMEA864096,83.0,130,4603220,70530,Leptospira interrogans,Leptospira interrogans serovar Autumnalis,Wellcome Sanger Institute
+SAMEA864097,90.0,115,4608552,75498,Leptospira interrogans,Leptospira interrogans serovar Autumnalis,Wellcome Sanger Institute
+SAMEA864098,87.0,118,4604924,71345,Leptospira interrogans,Leptospira interrogans serovar Autumnalis,Wellcome Sanger Institute
+SAMEA864099,84.0,124,4622926,65288,Leptospira interrogans,Leptospira interrogans serovar Autumnalis,Wellcome Sanger Institute
+SAMEA864100,69.0,135,4606737,63884,Leptospira interrogans,Leptospira interrogans serovar Autumnalis,Wellcome Sanger Institute
+SAMEA864101,22.0,270,4583329,30020,Leptospira interrogans,Leptospira interrogans serovar Autumnalis,Wellcome Sanger Institute
+SAMEA864102,20.0,253,4588026,33214,Leptospira interrogans,Leptospira interrogans serovar Autumnalis,Wellcome Sanger Institute
+SAMEA864103,26.0,245,4589564,34629,Leptospira interrogans,Leptospira interrogans serovar Autumnalis,Wellcome Sanger Institute
+SAMEA864105,32.0,163,4632198,49189,Leptospira interrogans,Leptospira interrogans serovar Autumnalis,Wellcome Sanger Institute
+SAMEA864106,25.0,277,4573709,28387,Leptospira interrogans,Leptospira interrogans serovar Autumnalis,Wellcome Sanger Institute
+SAMEA864110,27.0,284,4582115,30058,Leptospira interrogans,Leptospira interrogans serovar Autumnalis,Wellcome Sanger Institute
+SAMEA864112,23.0,335,4573450,24522,Leptospira interrogans,Leptospira interrogans serovar Autumnalis,Wellcome Sanger Institute
+SAMEA864113,22.0,278,4582762,26688,Leptospira interrogans,Leptospira interrogans serovar Autumnalis,Wellcome Sanger Institute
+SAMEA864114,59.0,155,4603910,48207,Leptospira interrogans,Leptospira interrogans serovar Autumnalis,Wellcome Sanger Institute
+SAMEA864116,32.0,279,4589792,30844,Leptospira interrogans,Leptospira interrogans serovar Autumnalis,Wellcome Sanger Institute
+SAMEA864117,63.0,139,4600438,61062,Leptospira interrogans,Leptospira interrogans serovar Autumnalis,Wellcome Sanger Institute
+SAMEA864118,70.0,138,4600815,59387,Leptospira interrogans,Leptospira interrogans serovar Autumnalis,Wellcome Sanger Institute
+SAMEA864119,57.0,153,4607288,52886,Leptospira interrogans,Leptospira interrogans serovar Autumnalis,Wellcome Sanger Institute
+SAMEA864120,79.0,133,4621832,64127,Leptospira interrogans,Leptospira interrogans serovar Autumnalis,Wellcome Sanger Institute
+SAMEA864121,65.0,115,4604074,77775,Leptospira interrogans,Leptospira interrogans serovar Autumnalis,Wellcome Sanger Institute
+SAMEA864122,66.0,121,4603935,76906,Leptospira interrogans,Leptospira interrogans serovar Autumnalis,Wellcome Sanger Institute
+SAMEA864123,71.0,149,4600426,59990,Leptospira interrogans,Leptospira interrogans serovar Autumnalis,Wellcome Sanger Institute
+SAMEA864124,79.0,127,4605800,69978,Leptospira interrogans,Leptospira interrogans serovar Autumnalis,Wellcome Sanger Institute
+SAMEA864125,87.0,137,4606953,59811,Leptospira interrogans,Leptospira interrogans serovar Autumnalis,Wellcome Sanger Institute
+SAMEA864126,80.0,142,4605186,49740,Leptospira interrogans,Leptospira interrogans serovar Autumnalis,Wellcome Sanger Institute
+SAMEA864127,82.0,122,4609501,70396,Leptospira interrogans,Leptospira interrogans serovar Autumnalis,Wellcome Sanger Institute
+SAMEA864128,65.0,156,4598004,50306,Leptospira interrogans,Leptospira interrogans serovar Autumnalis,Wellcome Sanger Institute
+SAMEA864129,78.0,122,4606754,70396,Leptospira interrogans,Leptospira interrogans serovar Autumnalis,Wellcome Sanger Institute
+SAMEA864130,82.0,125,4609720,71091,Leptospira interrogans,Leptospira interrogans serovar Autumnalis,Wellcome Sanger Institute
+SAMEA864131,77.0,127,4604519,59810,Leptospira interrogans,Leptospira interrogans serovar Autumnalis,Wellcome Sanger Institute
+SAMEA864132,80.0,125,4605719,71091,Leptospira interrogans,Leptospira interrogans serovar Autumnalis,Wellcome Sanger Institute
+SAMEA864133,25.0,267,4585252,29583,Leptospira interrogans,Leptospira interrogans serovar Autumnalis,Wellcome Sanger Institute
+SAMEA864134,24.0,241,4626484,30950,Leptospira interrogans,Leptospira interrogans serovar Autumnalis,Wellcome Sanger Institute
+SAMEA864135,64.0,118,4605302,75529,Leptospira interrogans,Leptospira interrogans serovar Autumnalis,Wellcome Sanger Institute
+SAMEA864136,58.0,116,4602120,75502,Leptospira interrogans,Leptospira interrogans serovar Autumnalis,Wellcome Sanger Institute
+SAMEA864137,53.0,157,4601908,55117,Leptospira interrogans,Leptospira interrogans serovar Autumnalis,Wellcome Sanger Institute
+SAMEA864138,62.0,157,4598250,46794,Leptospira interrogans,Leptospira interrogans serovar Autumnalis,Wellcome Sanger Institute
+SAMEA864139,112.0,122,4675297,71345,Leptospira interrogans,Leptospira interrogans serovar Autumnalis,Wellcome Sanger Institute
+SAMEA864140,42.0,158,4596746,48207,Leptospira interrogans,Leptospira interrogans serovar Autumnalis,Wellcome Sanger Institute
+SAMEA864141,21.0,262,4583775,30761,Leptospira interrogans,Leptospira interrogans serovar Autumnalis,Wellcome Sanger Institute
+SAMEA864142,111.0,115,4607624,77776,Leptospira interrogans,Leptospira interrogans serovar Autumnalis,Wellcome Sanger Institute
+SAMEA864143,80.0,193,4597584,38085,Leptospira interrogans,Leptospira interrogans serovar Autumnalis,Wellcome Sanger Institute
+SAMEA864144,46.0,161,4598144,48194,Leptospira interrogans,Leptospira interrogans serovar Autumnalis,Wellcome Sanger Institute
+SAMEA864146,58.0,152,4601629,46906,Leptospira interrogans,Leptospira interrogans serovar Autumnalis,Wellcome Sanger Institute
+SAMEA864147,68.0,128,4603474,68106,Leptospira interrogans,Leptospira interrogans serovar Autumnalis,Wellcome Sanger Institute
+SAMEA864149,32.0,164,4615952,51773,Leptospira interrogans,Leptospira interrogans serovar Autumnalis,Wellcome Sanger Institute
+SAMEA864152,58.0,121,4602154,71345,Leptospira interrogans,Leptospira interrogans serovar Autumnalis,Wellcome Sanger Institute
+SAMEA864153,52.0,123,4601393,71345,Leptospira interrogans,Leptospira interrogans serovar Autumnalis,Wellcome Sanger Institute
+SAMEA864157,28.0,294,4583965,28477,Leptospira interrogans,Leptospira interrogans serovar Autumnalis,Wellcome Sanger Institute
+SAMEA864159,24.0,224,4590299,34628,Leptospira interrogans,Leptospira interrogans serovar Autumnalis,Wellcome Sanger Institute
+SAMEA864161,35.0,143,4599953,60441,Leptospira interrogans,Leptospira interrogans serovar Autumnalis,Wellcome Sanger Institute
+SAMEA864162,592.0,110,4609727,81878,Leptospira interrogans,Leptospira interrogans,Wellcome Sanger Institute
+SAMEA864163,464.0,112,4610302,76869,Leptospira interrogans,Leptospira interrogans,Wellcome Sanger Institute
+SAMEA864164,144.0,111,4608636,86288,Leptospira interrogans,Leptospira interrogans serovar Autumnalis,Wellcome Sanger Institute
+SAMEA864165,197.0,111,4607561,77776,Leptospira interrogans,Leptospira interrogans serovar Autumnalis,Wellcome Sanger Institute
+SAMEA864167,127.0,134,4624891,71345,Leptospira interrogans,Leptospira interrogans serovar Autumnalis,Wellcome Sanger Institute
+SAMEA864169,35.0,160,4597916,58498,Leptospira interrogans,Leptospira interrogans serovar Autumnalis,Wellcome Sanger Institute
+SAMEA864170,20.0,295,4565631,28382,Leptospira interrogans,Leptospira interrogans serovar Autumnalis,Wellcome Sanger Institute
+SAMEA864172,67.0,121,4609470,71345,Leptospira interrogans,Leptospira interrogans serovar Autumnalis,Wellcome Sanger Institute
+SAMEA864174,41.0,159,4615655,52493,Leptospira interrogans,Leptospira interrogans serovar Autumnalis,Wellcome Sanger Institute
+SAMEA864175,31.0,193,4595204,43916,Leptospira interrogans,Leptospira interrogans serovar Autumnalis,Wellcome Sanger Institute
+SAMEA864176,50.0,161,4597549,50307,Leptospira interrogans,Leptospira interrogans serovar Autumnalis,Wellcome Sanger Institute
+SAMEA864178,101.0,118,4603034,77073,Leptospira interrogans,Leptospira interrogans serovar Autumnalis,Wellcome Sanger Institute
+SAMEA864179,51.0,126,4601045,73746,Leptospira interrogans,Leptospira interrogans serovar Autumnalis,Wellcome Sanger Institute
+SAMN00771460,62.0,117,4580698,77073,Leptospira interrogans,Leptospira interrogans serovar Bulgarica str. Mallika,Wellcome Sanger Institute
+SAMN00771461,115.0,147,4484010,52373,Leptospira interrogans,Leptospira interrogans serovar Pomona str. Pomona,Wellcome Sanger Institute
+SAMN00771485,137.0,89,4570297,92313,Leptospira interrogans,Leptospira interrogans serovar Copenhageni str. HAI0188,Wellcome Sanger Institute
+SAMN00771489,102.0,91,4552646,89947,Leptospira interrogans,Leptospira interrogans str. MMD3731,Wellcome Sanger Institute
+SAMN00780044,74.0,173,4833287,61052,Leptospira interrogans,Leptospira interrogans serovar Pyrogenes str. 2006006960,Wellcome Sanger Institute
+SAMN00780046,130.0,165,4778162,55054,Leptospira interrogans,Leptospira interrogans str. 2002000621,Wellcome Sanger Institute
+SAMN00780047,112.0,176,4776743,51695,Leptospira interrogans,Leptospira interrogans str. 2002000623,Wellcome Sanger Institute
+SAMN00780062,110.0,126,4642622,64132,Leptospira interrogans,Leptospira interrogans str. C10069,Wellcome Sanger Institute
+SAMN00780063,84.0,164,4817598,85076,Leptospira interrogans,Leptospira interrogans str. FPW2026,Wellcome Sanger Institute
+SAMN00780064,118.0,95,4636763,80114,Leptospira interrogans,Leptospira interrogans serovar Djasiman str. LT1649,Wellcome Sanger Institute
+SAMN00839694,84.0,147,4504381,56778,Leptospira interrogans,Leptospira interrogans serovar Pomona str. Kennewicki LC82-25,Wellcome Sanger Institute
+SAMN01047824,150.0,147,4867004,71456,Leptospira interrogans,Leptospira interrogans serovar Grippotyphosa str. Andaman,Wellcome Sanger Institute
+SAMN01047825,172.0,103,4506506,77693,Leptospira interrogans,Leptospira interrogans serovar Valbuzzi str. Valbuzzi,Wellcome Sanger Institute
+SAMN01047827,75.0,151,4853840,75882,Leptospira interrogans,Leptospira interrogans serovar Grippotyphosa str. 2006006986,Wellcome Sanger Institute
+SAMN01047831,69.0,112,4573483,75659,Leptospira interrogans,Leptospira interrogans serovar Muenchen str. Brem 129,Wellcome Sanger Institute
+SAMN01047843,76.0,134,4682206,80990,Leptospira interrogans,Leptospira interrogans str. Brem 329,Wellcome Sanger Institute
+SAMN01047846,70.0,193,4811255,50968,Leptospira interrogans,Leptospira interrogans serovar Medanensis str. L0448,Wellcome Sanger Institute
+SAMN01047848,128.0,191,4738548,50159,Leptospira interrogans,Leptospira interrogans str. L0996,Wellcome Sanger Institute
+SAMN01047849,81.0,185,4716051,58257,Leptospira interrogans,Leptospira interrogans serovar Bataviae str. L1111,Wellcome Sanger Institute
+SAMN01047852,157.0,118,4307611,84784,Leptospira interrogans,Leptospira interrogans str. L1207,Wellcome Sanger Institute
+SAMN01047855,63.0,145,4610787,57305,Leptospira interrogans,Leptospira interrogans serovar Hebdomadis str. R499,Wellcome Sanger Institute
+SAMN01047856,47.0,134,4786174,69905,Leptospira interrogans,Leptospira interrogans serovar Pyrogenes str. R168,Wellcome Sanger Institute
+SAMN01047857,113.0,163,4833530,64928,Leptospira interrogans,Leptospira interrogans serovar Grippotyphosa str. UI 08368,Wellcome Sanger Institute
+SAMN01047858,93.0,131,4679253,84637,Leptospira interrogans,Leptospira interrogans serovar Grippotyphosa str. UI 08434,Wellcome Sanger Institute
+SAMN01047859,75.0,184,4735660,51068,Leptospira interrogans,Leptospira interrogans str. UI 08452,Wellcome Sanger Institute
+SAMN01047860,74.0,197,4774754,52034,Leptospira interrogans,Leptospira interrogans serovar Bataviae str. UI 08561,Wellcome Sanger Institute
+SAMN01047862,82.0,162,4629565,50537,Leptospira interrogans,Leptospira interrogans str. UI 09600,Wellcome Sanger Institute
+SAMN01047864,111.0,203,4893786,60590,Leptospira interrogans,Leptospira interrogans str. UI 12621,Wellcome Sanger Institute
+SAMN01047865,81.0,167,5006525,70407,Leptospira interrogans,Leptospira interrogans str. UI 12758,Wellcome Sanger Institute
+SAMN01047866,85.0,161,4829635,64156,Leptospira interrogans,Leptospira interrogans serovar Grippotyphosa str. UI 12769,Wellcome Sanger Institute
+SAMN01047867,74.0,236,4964286,54894,Leptospira interrogans,Leptospira interrogans serovar Grippotyphosa str. UI 12764,Wellcome Sanger Institute
+SAMN01047868,78.0,153,4853199,82137,Leptospira interrogans,Leptospira interrogans str. UI 13372,Wellcome Sanger Institute
+SAMN01047870,116.0,161,4805793,59339,Leptospira interrogans,Leptospira interrogans serovar Pomona str. UT364,Wellcome Sanger Institute
+SAMN01047920,76.0,132,4711226,61818,Leptospira interrogans,Leptospira interrogans serovar Australis str. LT2148,Wellcome Sanger Institute
+SAMN01048184,81.0,243,4830818,50168,Leptospira interrogans,Leptospira interrogans serovar Medanensis str. UT053,Wellcome Sanger Institute
+SAMN01162014,76.0,165,4761846,55948,Leptospira interrogans,Leptospira interrogans str. 2002000624,Wellcome Sanger Institute
+SAMN01162016,108.0,149,4645991,51475,Leptospira interrogans,Leptospira interrogans serovar Canicola str. Fiocruz LV133,Wellcome Sanger Institute
+SAMN01162020,63.0,88,4557329,92331,Leptospira interrogans,Leptospira interrogans serovar Icterohaemorrhagiae str. Verdun LP,Wellcome Sanger Institute
+SAMN01162029,78.0,92,4560464,89942,Leptospira interrogans,Leptospira interrogans str. HAI1594,Wellcome Sanger Institute
+SAMN01886734,61.0,176,4717890,70842,Leptospira interrogans,Leptospira interrogans str. FPW1039,Wellcome Sanger Institute
+SAMN01919676,29.0,108,4552414,77733,Leptospira interrogans,Leptospira interrogans serovar Copenhageni str. M20,Wellcome Sanger Institute
+SAMN07501985,167.0,49,4651569,249089,Leptospira interrogans,Leptospira interrogans serovar Manilae,Wellcome Sanger Institute
+SAMN07502166,150.0,47,4649056,249091,Leptospira interrogans,Leptospira interrogans serovar Manilae,Wellcome Sanger Institute
+SAMEA864166,23.0,345,3970982,25273,Leptospira interrogans,Leptospira interrogans serovar Autumnalis,Wellcome Sanger Institute
+SAMN06434252,30.0,2,4570695,4218946,Leptospira interrogans,Leptospira interrogans serovar Canicola (bacteria),Universidade Federal de Pelotas
+SAMN06434273,30.0,2,4560160,4208129,Leptospira interrogans,Leptospira interrogans serovar Canicola (bacteria),Universidade Federal de Pelotas
+SAMN02603847,0.0,2,4627366,4277185,Leptospira interrogans,Leptospira interrogans serovar Copenhageni str. Fiocruz L1-130 (bacteria),Sao Paulo state (Brazil) Consortium
+SAMN02603127,0.0,2,4698134,4338762,Leptospira interrogans,Leptospira interrogans serovar Lai str. 56601 (bacteria),"Chinese National HGC, Shanghai"
+SAMN00255265,34.4,16,4705262,617754,Leptospira interrogans,Leptospira interrogans serovar Canicola str. LT1962 (bacteria),J. Craig Venter Institute
+SAMN02436336,51.0,229,4679663,37187,Leptospira interrogans,Leptospira interrogans serovar Djasiman str. LT1649 (bacteria),J. Craig Venter Institute
+SAMN02436629,53.6,43,4741083,250073,Leptospira interrogans,Leptospira interrogans str. C10069 (bacteria),J. Craig Venter Institute
+SAMN02436628,57.0,71,4918776,130328,Leptospira interrogans,Leptospira interrogans str. 2002000621 (bacteria),J. Craig Venter Institute
+SAMN02436547,62.2,42,4580695,198881,Leptospira interrogans,Leptospira interrogans serovar Pomona str. Pomona (bacteria),J. Craig Venter Institute
+SAMN02436546,62.0,40,4660976,198307,Leptospira interrogans,Leptospira interrogans serovar Bulgarica str. Mallika (bacteria),J. Craig Venter Institute
+SAMN00254365,30.11,252,4545360,30507,Leptospira interrogans,Leptospira interrogans serovar Copenhageni str. Fiocruz R83 (bacteria),J. Craig Venter Institute
+SAMN00254363,39.69,242,4545399,33096,Leptospira interrogans,Leptospira interrogans serovar Copenhageni str. Fiocruz LV3879 (bacteria),J. Craig Venter Institute
+SAMN00254358,46.68,232,4548800,36256,Leptospira interrogans,Leptospira interrogans serovar Copenhageni str. Fiocruz LV3323 (bacteria),J. Craig Venter Institute
+SAMN00254352,47.32,280,4544687,27958,Leptospira interrogans,Leptospira interrogans serovar Copenhageni str. Fiocruz LV2959 (bacteria),J. Craig Venter Institute
+SAMN00254342,49.16,236,4547942,37545,Leptospira interrogans,Leptospira interrogans serovar Copenhageni str. Fiocruz LV2812 (bacteria),J. Craig Venter Institute
+SAMN00254336,65.27,236,4550206,35609,Leptospira interrogans,Leptospira interrogans serovar Copenhageni str. Fiocruz LV2791 (bacteria),J. Craig Venter Institute
+SAMN00254335,74.61,235,4547515,32986,Leptospira interrogans,Leptospira interrogans serovar Copenhageni str. Fiocruz LV2790 (bacteria),J. Craig Venter Institute
+SAMN00254334,72.45,233,4549651,37915,Leptospira interrogans,Leptospira interrogans serovar Copenhageni str. Fiocruz LV2787 (bacteria),J. Craig Venter Institute
+SAMN00254333,86.47,226,4546512,36023,Leptospira interrogans,Leptospira interrogans serovar Copenhageni str. Fiocruz LV2776 (bacteria),J. Craig Venter Institute
+SAMN00254332,83.05,222,4545322,35769,Leptospira interrogans,Leptospira interrogans serovar Copenhageni str. Fiocruz LV2772 (bacteria),J. Craig Venter Institute
+SAMN00254330,104.12,234,4545200,38517,Leptospira interrogans,Leptospira interrogans serovar Copenhageni str. Fiocruz LV2767 (bacteria),J. Craig Venter Institute
+SAMN00254329,98.7,224,4548549,34635,Leptospira interrogans,Leptospira interrogans serovar Copenhageni str. Fiocruz LV2763 (bacteria),J. Craig Venter Institute
+SAMN00254328,92.61,244,4549345,32537,Leptospira interrogans,Leptospira interrogans serovar Copenhageni str. Fiocruz LV2759 (bacteria),J. Craig Venter Institute
+SAMN00254380,60.14,169,4626945,44504,Leptospira interrogans,Leptospira interrogans serovar Copenhageni str. Fiocruz LV251 (bacteria),J. Craig Venter Institute
+SAMN00254379,53.83,405,4867119,19354,Leptospira interrogans,Leptospira interrogans serovar Copenhageni str. Fiocruz LV224 (bacteria),J. Craig Venter Institute
+SAMN02436548,60.9,66,4918548,135191,Leptospira interrogans,Leptospira interrogans str. 2002000624 (bacteria),J. Craig Venter Institute
+SAMN00254991,55.04,156,4639028,47360,Leptospira interrogans,Leptospira interrogans serovar Copenhageni str. Fiocruz LV130 (bacteria),J. Craig Venter Institute
+SAMN00254992,44.77,217,4736976,34317,Leptospira interrogans,Leptospira interrogans serovar Copenhageni str. Fiocruz LV2755 (bacteria),J. Craig Venter Institute
+SAMN00254324,56.39,358,4697638,21922,Leptospira interrogans,Leptospira interrogans serovar Copenhageni str. Fiocruz LV2756 C1 (bacteria),J. Craig Venter Institute
+SAMN02603861,0.0,2,4708530,4349158,Leptospira interrogans,Leptospira interrogans serovar Lai str. IPAV (bacteria),Shanghai Jiao Tong University
+SAMN02436505,53.7,71,4875498,295590,Leptospira interrogans,Leptospira interrogans serovar Pyrogenes str. 2006006960 (bacteria),J. Craig Venter Institute
+SAMN02436506,54.0,73,4928546,132976,Leptospira interrogans,Leptospira interrogans str. 2002000623 (bacteria),J. Craig Venter Institute
+SAMN02436433,58.5,71,4608327,128153,Leptospira interrogans,Leptospira interrogans serovar Pomona str. Kennewicki LC82-25 (bacteria),J. Craig Venter Institute
+SAMN02436508,63.8,44,4630975,250357,Leptospira interrogans,Leptospira interrogans serovar Muenchen str. Brem 129 (bacteria),J. Craig Venter Institute
+SAMN02436424,49.0,83,4877040,195979,Leptospira interrogans,Leptospira interrogans str. FPW2026 (bacteria),J. Craig Venter Institute
+SAMN02436373,53.0,81,4950201,139506,Leptospira interrogans,Leptospira interrogans serovar Medanensis str. L0448 (bacteria),J. Craig Venter Institute
+SAMN02436425,55.0,73,4845034,148375,Leptospira interrogans,Leptospira interrogans str. L0996 (bacteria),J. Craig Venter Institute
+SAMN02436427,54.2,82,4853577,138707,Leptospira interrogans,Leptospira interrogans serovar Bataviae str. L1111 (bacteria),J. Craig Venter Institute
+SAMN02436374,58.0,36,4396672,204879,Leptospira interrogans,Leptospira interrogans str. L1207 (bacteria),J. Craig Venter Institute
+SAMN02436428,51.1,127,5030188,111214,Leptospira interrogans,Leptospira interrogans serovar Autumnalis str. LP101 (bacteria),J. Craig Venter Institute
+SAMN02436589,51.8,99,4868353,84348,Leptospira interrogans,Leptospira interrogans serovar Pyrogenes str. R168 (bacteria),J. Craig Venter Institute
+SAMN02436375,54.6,70,4702752,136449,Leptospira interrogans,Leptospira interrogans serovar Hebdomadis str. R499 (bacteria),J. Craig Venter Institute
+SAMN02436429,55.0,78,4871482,198012,Leptospira interrogans,Leptospira interrogans serovar Grippotyphosa str. UI 08368 (bacteria),J. Craig Venter Institute
+SAMN02436376,55.0,60,4741376,245209,Leptospira interrogans,Leptospira interrogans serovar Grippotyphosa str. UI 08434 (bacteria),J. Craig Venter Institute
+SAMN02436590,56.3,66,4864825,109294,Leptospira interrogans,Leptospira interrogans str. UI 08452 (bacteria),J. Craig Venter Institute
+SAMN02436591,52.0,222,4845069,62577,Leptospira interrogans,Leptospira interrogans serovar Bataviae str. UI 08561 (bacteria),J. Craig Venter Institute
+SAMN02436377,52.7,55,4716518,170841,Leptospira interrogans,Leptospira interrogans str. UI 09600 (bacteria),J. Craig Venter Institute
+SAMN02436582,62.6,59,4981617,271337,Leptospira interrogans,Leptospira interrogans str. UI 12621 (bacteria),J. Craig Venter Institute
+SAMN02436378,60.1,83,5102030,177655,Leptospira interrogans,Leptospira interrogans str. UI 12758 (bacteria),J. Craig Venter Institute
+SAMN02436430,53.0,73,5077604,220300,Leptospira interrogans,Leptospira interrogans serovar Grippotyphosa str. UI 12764 (bacteria),J. Craig Venter Institute
+SAMN02436501,54.1,94,4900685,109759,Leptospira interrogans,Leptospira interrogans serovar Grippotyphosa str. UI 12769 (bacteria),J. Craig Venter Institute
+SAMN02436416,51.0,282,5095694,46577,Leptospira interrogans,Leptospira interrogans str. UI 13372 (bacteria),J. Craig Venter Institute
+SAMN02436502,49.3,174,5157642,117026,Leptospira interrogans,Leptospira interrogans serovar Medanensis str. UT053 (bacteria),J. Craig Venter Institute
+SAMN02436379,49.0,291,5113459,45875,Leptospira interrogans,Leptospira interrogans serovar Pomona str. UT364 (bacteria),J. Craig Venter Institute
+SAMN02436381,53.7,31,4617362,322039,Leptospira interrogans,Leptospira interrogans serovar Copenhageni str. HAI0188 (bacteria),J. Craig Venter Institute
+SAMN02436498,57.1,38,4591690,205888,Leptospira interrogans,Leptospira interrogans str. MMD3731 (bacteria),J. Craig Venter Institute
+SAMN02436576,55.2,80,4937420,159632,Leptospira interrogans,Leptospira interrogans serovar Grippotyphosa str. Andaman (bacteria),J. Craig Venter Institute
+SAMN02436487,62.3,89,4719846,100868,Leptospira interrogans,Leptospira interrogans serovar Canicola str. Fiocruz LV133 (bacteria),J. Craig Venter Institute
+SAMN02436490,56.3,39,4539794,233741,Leptospira interrogans,Leptospira interrogans serovar Valbuzzi str. Valbuzzi (bacteria),J. Craig Venter Institute
+SAMN02436488,65.2,53,4754898,219107,Leptospira interrogans,Leptospira interrogans str. Brem 329 (bacteria),J. Craig Venter Institute
+SAMN02436410,57.9,31,4609830,351336,Leptospira interrogans,Leptospira interrogans serovar Icterohaemorrhagiae str. Verdun LP (bacteria),J. Craig Venter Institute
+SAMN02436495,51.19,251,5108712,62640,Leptospira interrogans,Leptospira interrogans str. FPW1039 (bacteria),J. Craig Venter Institute
+SAMN02436413,62.4,41,4608233,263356,Leptospira interrogans,Leptospira interrogans str. HAI1594 (bacteria),J. Craig Venter Institute
+SAMN02436575,52.6,60,4935986,348371,Leptospira interrogans,Leptospira interrogans serovar Grippotyphosa str. 2006006986 (bacteria),J. Craig Venter Institute
+SAMN02436483,47.4,53,4628955,203115,Leptospira interrogans,Leptospira interrogans serovar Copenhageni str. M20 (bacteria),J. Craig Venter Institute
+SAMN01886736,55.63,172,4583716,47406,Leptospira interrogans,Leptospira interrogans serovar Pomona str. Fox 32256 (bacteria),J. Craig Venter Institute
+SAMN01919808,58.66,177,4606523,48331,Leptospira interrogans,Leptospira interrogans serovar Canicola str. P2655 (bacteria),J. Craig Venter Institute
+SAMN01920633,58.53,130,4619583,55068,Leptospira interrogans,Leptospira interrogans serovar Copenhageni str. Fiocruz LV4113 (bacteria),J. Craig Venter Institute
+SAMN01920597,53.58,207,5032185,41720,Leptospira interrogans,Leptospira interrogans serovar Pyrogenes str. Sri Lanka 30 (bacteria),J. Craig Venter Institute
+SAMN01920632,59.19,139,4601723,48273,Leptospira interrogans,Leptospira interrogans serovar Copenhageni str. Fiocruz LV3409 (bacteria),J. Craig Venter Institute
+SAMN01920596,42.9,206,4987033,45594,Leptospira interrogans,Leptospira interrogans serovar Naam str. Naam (bacteria),J. Craig Venter Institute
+SAMN01920622,55.81,147,4600899,50979,Leptospira interrogans,Leptospira interrogans serovar Copenhageni str. 2007005490 (bacteria),J. Craig Venter Institute
+SAMN01919809,54.14,238,4828953,36765,Leptospira interrogans,Leptospira interrogans serovar Pyrogenes str. Sri Lanka 14 (bacteria),J. Craig Venter Institute
+SAMN01920570,58.65,124,4618641,52818,Leptospira interrogans,Leptospira interrogans serovar Copenhageni str. Fiocruz LV4108 (bacteria),J. Craig Venter Institute
+SAMN01919804,58.95,150,4602982,47095,Leptospira interrogans,Leptospira interrogans serovar Copenhageni str. Fiocruz LV4118 (bacteria),J. Craig Venter Institute
+SAMN01920626,55.65,215,4852809,39737,Leptospira interrogans,Leptospira interrogans serovar Pyrogenes str. Sri Lanka 39 (bacteria),J. Craig Venter Institute
+SAMN01920595,55.83,193,4808717,43116,Leptospira interrogans,Leptospira interrogans serovar Pyrogenes str. Sri Lanka 46 (bacteria),J. Craig Venter Institute
+SAMN01919802,33.61,248,4879029,31905,Leptospira interrogans,Leptospira interrogans serovar Szwajizak str. Szwajizak (bacteria),J. Craig Venter Institute
+SAMN01919801,57.95,136,4669029,50604,Leptospira interrogans,Leptospira interrogans serovar Manilae str. K56 (bacteria),J. Craig Venter Institute
+SAMN01920630,58.13,147,4609995,51371,Leptospira interrogans,Leptospira interrogans serovar Copenhageni str. Fiocruz LV2841 (bacteria),J. Craig Venter Institute
+SAMN01920564,56.95,171,4642620,46838,Leptospira interrogans,Leptospira interrogans serovar Copenhageni str. 2006006982 (bacteria),J. Craig Venter Institute
+SAMN01920610,58.19,148,4615771,60213,Leptospira interrogans,Leptospira interrogans serovar Copenhageni str. 2002000634 (bacteria),J. Craig Venter Institute
+SAMN01920608,58.86,203,4562852,37213,Leptospira interrogans,Leptospira interrogans serovar Pomona str. 2006006962 (bacteria),J. Craig Venter Institute
+SAMN01920569,58.16,135,4617438,64403,Leptospira interrogans,Leptospira interrogans serovar Copenhageni str. Fiocruz LV237 (bacteria),J. Craig Venter Institute
+SAMN01920624,58.6,155,4572939,49767,Leptospira interrogans,Leptospira interrogans serovar Copenhageni str. 2002009669 (bacteria),J. Craig Venter Institute
+SAMN01920130,58.96,141,4613819,56561,Leptospira interrogans,Leptospira interrogans str. Fiocruz LV4114 (bacteria),J. Craig Venter Institute
+SAMN01919803,58.9,129,4605386,63995,Leptospira interrogans,Leptospira interrogans str. Fiocruz LV4117 (bacteria),J. Craig Venter Institute
+SAMN01920605,58.89,143,4600016,61199,Leptospira interrogans,Leptospira interrogans serovar Icterohaemorrhagiae str. RGA (bacteria),J. Craig Venter Institute
+SAMN01920115,57.85,157,4671647,49503,Leptospira interrogans,Leptospira interrogans serovar Copenhageni str. Fiocruz LV4152 (bacteria),J. Craig Venter Institute
+SAMN01920565,58.48,160,4616590,46188,Leptospira interrogans,Leptospira interrogans serovar Copenhageni str. Fiocruz LV2807 (bacteria),J. Craig Venter Institute
+SAMN01920631,59.0,142,4611929,55834,Leptospira interrogans,Leptospira interrogans serovar Copenhageni str. Fiocruz LV4173 (bacteria),J. Craig Venter Institute
+SAMN01920118,58.98,144,4613090,49783,Leptospira interrogans,Leptospira interrogans serovar Copenhageni str. Fiocruz LV2919 (bacteria),J. Craig Venter Institute
+SAMN01920127,58.69,135,4615055,59502,Leptospira interrogans,Leptospira interrogans serovar Copenhageni str. Fiocruz LV4034 (bacteria),J. Craig Venter Institute
+SAMN01920567,58.97,142,4614427,57212,Leptospira interrogans,Leptospira interrogans serovar Copenhageni str. Fiocruz LV4211 (bacteria),J. Craig Venter Institute
+SAMN01920611,59.01,148,4608785,48240,Leptospira interrogans,Leptospira interrogans serovar Icterohaemorrhagiae str. Kantorowic (bacteria),J. Craig Venter Institute
+SAMN01920609,58.53,218,4553778,33291,Leptospira interrogans,Leptospira interrogans serovar Pomona str. 2006006968 (bacteria),J. Craig Venter Institute
+SAMN01920112,58.13,141,4655969,49849,Leptospira interrogans,Leptospira interrogans serovar Manilae str. UP-OM (bacteria),J. Craig Venter Institute
+SAMN01920105,57.64,180,4648565,42461,Leptospira interrogans,Leptospira interrogans serovar Jalna str. 2008720116 (bacteria),J. Craig Venter Institute
+SAMN01920628,57.78,173,4637094,48689,Leptospira interrogans,Leptospira interrogans serovar Jalna str. 2008720117 (bacteria),J. Craig Venter Institute
+SAMN01920108,55.69,195,4798347,50003,Leptospira interrogans,Leptospira interrogans serovar Pyrogenes str. 2006006973 (bacteria),J. Craig Venter Institute
+SAMN01920629,58.4,160,4596979,50308,Leptospira interrogans,Leptospira interrogans serovar Copenhageni str. 2006006972 (bacteria),J. Craig Venter Institute
+SAMN01920592,58.93,154,4608915,55071,Leptospira interrogans,Leptospira interrogans serovar Copenhageni str. P2431 (bacteria),J. Craig Venter Institute
+SAMN01920593,58.76,160,4619308,45191,Leptospira interrogans,Leptospira interrogans serovar Icterohaemorrhagiae str. 201100516 (bacteria),J. Craig Venter Institute
+SAMN01920621,59.13,161,4593268,51500,Leptospira interrogans,Leptospira interrogans serovar Copenhageni str. Fiocruz LV256 (bacteria),J. Craig Venter Institute
+SAMN01920591,58.53,155,4617778,46235,Leptospira interrogans,Leptospira interrogans serovar Copenhageni str. Fiocruz LV4160 (bacteria),J. Craig Venter Institute
+SAMN01920617,100.32,154,4571590,50882,Leptospira interrogans,Leptospira interrogans serovar Copenhageni str. 200701182 (bacteria),J. Craig Venter Institute
+SAMN01920618,58.84,152,4610176,45832,Leptospira interrogans,Leptospira interrogans serovar Copenhageni str. Fiocruz LV2750 (bacteria),J. Craig Venter Institute
+SAMN01920604,58.42,145,4624604,49766,Leptospira interrogans,Leptospira interrogans serovar Copenhageni str. Fiocruz LV2766 (bacteria),J. Craig Venter Institute
+SAMN01920566,58.58,136,4636633,55420,Leptospira interrogans,Leptospira interrogans serovar Copenhageni str. Fiocruz LV2816 (bacteria),J. Craig Venter Institute
+SAMN01920121,59.26,132,4597576,61524,Leptospira interrogans,Leptospira interrogans serovar Copenhageni str. Fiocruz LV3076 (bacteria),J. Craig Venter Institute
+SAMN01920619,58.64,160,4631499,45192,Leptospira interrogans,Leptospira interrogans serovar Copenhageni str. Fiocruz LV3213 (bacteria),J. Craig Venter Institute
+SAMN01920587,58.88,147,4619742,51089,Leptospira interrogans,Leptospira interrogans serovar Copenhageni str. Fiocruz LV4212 (bacteria),J. Craig Venter Institute
+SAMN01920588,58.92,151,4613312,49052,Leptospira interrogans,Leptospira interrogans serovar Copenhageni str. Wijnberg (bacteria),J. Craig Venter Institute
+SAMN01920589,58.7,163,4611364,44532,Leptospira interrogans,Leptospira interrogans serovar Copenhageni str. Fiocruz LV4217 (bacteria),J. Craig Venter Institute
+SAMN01920590,58.95,164,4625324,44063,Leptospira interrogans,Leptospira interrogans serovar Copenhageni str. Fiocruz LV4174 (bacteria),J. Craig Venter Institute
+SAMN01920124,58.87,164,4612939,47809,Leptospira interrogans,Leptospira interrogans serovar Copenhageni str. Fiocruz LV4188 (bacteria),J. Craig Venter Institute
+SAMN01920620,58.91,147,4596397,49358,Leptospira interrogans,Leptospira interrogans str. Fiocruz LV4225 (bacteria),J. Craig Venter Institute
+SAMN01920568,58.98,168,4598345,46393,Leptospira interrogans,Leptospira interrogans serovar Copenhageni str. Fiocruz LV4234 (bacteria),J. Craig Venter Institute
+SAMN01886735,60.2,182,4574387,44679,Leptospira interrogans,Leptospira interrogans serovar Pomona str. CSL10083 (bacteria),J. Craig Venter Institute
+SAMN01801580,58.3,142,4672622,52754,Leptospira interrogans,Leptospira interrogans serovar Valbuzzi str. Duyster (bacteria),J. Craig Venter Institute
+SAMN01801596,54.5,223,4893012,41353,Leptospira interrogans,Leptospira interrogans str. 2003000735 (bacteria),J. Craig Venter Institute
+SAMN01766539,53.9,239,4862914,32911,Leptospira interrogans,Leptospira interrogans str. UT126 (bacteria),J. Craig Venter Institute
+SAMN01801595,54.2,217,4896897,37125,Leptospira interrogans,Leptospira interrogans str. 2002000632 (bacteria),J. Craig Venter Institute
+SAMN01801593,55.1,224,4847936,36430,Leptospira interrogans,Leptospira interrogans str. 2002000631 (bacteria),J. Craig Venter Institute
+SAMN01801606,52.6,187,4591338,41059,Leptospira interrogans,Leptospira interrogans serovar Pomona str. CSL4002 (bacteria),J. Craig Venter Institute
+SAMN01162021,57.2,197,4684013,41578,Leptospira interrogans,Leptospira interrogans str. Kito (bacteria),J. Craig Venter Institute
+SAMN02673560,190.0,167,4621278,54166,Leptospira interrogans,Leptospira interrogans serovar Manilae (bacteria),INSTITUT PASTEUR
+SAMN02928167,34.0,329,4861003,35514,Leptospira interrogans,Leptospira interrogans serovar Lai (bacteria),University of Hyderabad
+SAMN03259167,96.4,2,4721584,4370471,Leptospira interrogans,Leptospira interrogans serovar Bratislava (bacteria),"USDA, ARS, National Animal Disease Center"
+SAMN03610058,40.0,158,4647713,63489,Leptospira interrogans,Leptospira interrogans serovar Muenchen (bacteria),UFPel
+SAMN03780437,0.0,3,4667405,4238972,Leptospira interrogans,Leptospira interrogans serovar Manilae (bacteria),Okinawa Institute of Advanced Sciences
+SAMN03780438,0.0,3,4667354,4238922,Leptospira interrogans,Leptospira interrogans serovar Manilae (bacteria),Okinawa Institute of Advanced Sciences
+SAMN04009303,50.0,106,4441322,46508,Leptospira interrogans,Leptospira interrogans (bacteria),Universidade Federal de Pelotas
+SAMN04009307,30.0,2,4592899,4241665,Leptospira interrogans,Leptospira interrogans (bacteria),Universidade Federal de Pelotas
+SAMN04009327,50.0,160,4513890,45526,Leptospira interrogans,Leptospira interrogans (bacteria),Universidade Federal de Pelotas
+SAMN03853357,76.0,2,4762150,4406718,Leptospira interrogans,Leptospira interrogans serovar Hardjo str. Norma (bacteria),Federal University of Minas Gerais
+SAMN03783264,60.0,47,4744267,200355,Leptospira interrogans,Leptospira interrogans serovar Canicola (bacteria),School of Veterinary Medicine and Animal Science / University of Sao Paulo
+SAMN03783263,30.0,319,4696320,24740,Leptospira interrogans,Leptospira interrogans serovar Canicola (bacteria),School of Veterinary Medicine and Animal Science / University of Sao Paulo
+SAMN04102139,300.0,2,4692322,4339653,Leptospira interrogans,Leptospira interrogans serovar Hardjo-prajitno (bacteria),INDICASAT-AIP
+SAMN04231379,1000.0,276,4619977,32265,Leptospira interrogans,Leptospira interrogans (bacteria),MERIAL
+SAMN04235587,279.0,256,4621578,33971,Leptospira interrogans,Leptospira interrogans (bacteria),MERIAL
+SAMN02949576,438.0,280,4715808,34776,Leptospira interrogans,Leptospira interrogans (bacteria),Chinese National Human Genome Center at Shanghai
+SAMN02949560,345.0,255,4620362,33333,Leptospira interrogans,Leptospira interrogans (bacteria),Chinese National Human Genome Center at Shanghai
+SAMN02949559,302.0,235,4618420,34852,Leptospira interrogans,Leptospira interrogans (bacteria),Chinese National Human Genome Center at Shanghai
+SAMN02947410,384.0,213,4533171,40376,Leptospira interrogans,Leptospira interrogans (bacteria),Chinese National Human Genome Center at Shanghai
+SAMN02949561,402.0,348,4798825,27823,Leptospira interrogans,Leptospira interrogans (bacteria),Chinese National Human Genome Center at Shanghai
+SAMN02949562,471.0,338,4771963,33167,Leptospira interrogans,Leptospira interrogans (bacteria),Chinese National Human Genome Center at Shanghai
+SAMN02949568,336.0,287,4784356,34846,Leptospira interrogans,Leptospira interrogans (bacteria),Chinese National Human Genome Center at Shanghai
+SAMN02949572,345.0,288,4631104,31816,Leptospira interrogans,Leptospira interrogans (bacteria),Chinese National Human Genome Center at Shanghai
+SAMN02947765,30.0,98,4876983,130308,Leptospira interrogans,Leptospira interrogans (bacteria),Chinese National Human Genome Center at Shanghai
+SAMN02949574,605.0,234,4619992,34657,Leptospira interrogans,Leptospira interrogans (bacteria),Chinese National Human Genome Center at Shanghai
+SAMN02949532,275.0,361,4692957,31926,Leptospira interrogans,Leptospira interrogans (bacteria),Chinese National Human Genome Center at Shanghai
+SAMN02949533,255.0,221,4534074,40060,Leptospira interrogans,Leptospira interrogans (bacteria),Chinese National Human Genome Center at Shanghai
+SAMN02949539,352.0,282,4639972,31183,Leptospira interrogans,Leptospira interrogans (bacteria),Chinese National Human Genome Center at Shanghai
+SAMN02949540,265.0,332,4834381,34456,Leptospira interrogans,Leptospira interrogans (bacteria),Chinese National Human Genome Center at Shanghai
+SAMN02949543,359.0,313,4564593,27113,Leptospira interrogans,Leptospira interrogans (bacteria),Chinese National Human Genome Center at Shanghai
+SAMN02949545,250.0,382,4845566,27377,Leptospira interrogans,Leptospira interrogans (bacteria),Chinese National Human Genome Center at Shanghai
+SAMN02949546,269.0,389,4814458,30811,Leptospira interrogans,Leptospira interrogans (bacteria),Chinese National Human Genome Center at Shanghai
+SAMN02949548,318.0,453,4915018,32229,Leptospira interrogans,Leptospira interrogans (bacteria),Chinese National Human Genome Center at Shanghai
+SAMN02949570,303.0,406,4868105,31789,Leptospira interrogans,Leptospira interrogans (bacteria),Chinese National Human Genome Center at Shanghai
+SAMN02949554,187.0,340,4855805,34374,Leptospira interrogans,Leptospira interrogans (bacteria),Chinese National Human Genome Center at Shanghai
+SAMN02949556,306.0,360,4814516,34935,Leptospira interrogans,Leptospira interrogans (bacteria),Chinese National Human Genome Center at Shanghai
+SAMN02947972,227.0,216,4575610,40369,Leptospira interrogans,Leptospira interrogans (bacteria),Chinese National Human Genome Center at Shanghai
+SAMN02949511,246.0,304,4689772,32913,Leptospira interrogans,Leptospira interrogans (bacteria),Chinese National Human Genome Center at Shanghai
+SAMN02949512,424.0,347,4763351,33957,Leptospira interrogans,Leptospira interrogans (bacteria),Chinese National Human Genome Center at Shanghai
+SAMN02949513,227.0,338,4792311,34606,Leptospira interrogans,Leptospira interrogans (bacteria),Chinese National Human Genome Center at Shanghai
+SAMN02949514,471.0,252,4626336,41111,Leptospira interrogans,Leptospira interrogans (bacteria),Chinese National Human Genome Center at Shanghai
+SAMN02949518,447.0,334,4813974,38467,Leptospira interrogans,Leptospira interrogans (bacteria),Chinese National Human Genome Center at Shanghai
+SAMN02949520,303.0,461,4891963,25680,Leptospira interrogans,Leptospira interrogans (bacteria),Chinese National Human Genome Center at Shanghai
+SAMN02949563,282.0,225,4599506,36273,Leptospira interrogans,Leptospira interrogans (bacteria),Chinese National Human Genome Center at Shanghai
+SAMN02949524,330.0,292,4748694,33029,Leptospira interrogans,Leptospira interrogans (bacteria),Chinese National Human Genome Center at Shanghai
+SAMN02949526,864.0,331,4732677,28801,Leptospira interrogans,Leptospira interrogans (bacteria),Chinese National Human Genome Center at Shanghai
+SAMN02949564,329.0,269,4623155,32025,Leptospira interrogans,Leptospira interrogans (bacteria),Chinese National Human Genome Center at Shanghai
+SAMN02949558,327.0,335,4851893,34374,Leptospira interrogans,Leptospira interrogans (bacteria),Chinese National Human Genome Center at Shanghai
+SAMN02949567,469.0,369,4679462,29427,Leptospira interrogans,Leptospira interrogans (bacteria),Chinese National Human Genome Center at Shanghai
+SAMN02949569,373.0,351,4605291,27279,Leptospira interrogans,Leptospira interrogans (bacteria),Chinese National Human Genome Center at Shanghai
+SAMN02949575,630.0,242,4620176,34051,Leptospira interrogans,Leptospira interrogans (bacteria),Chinese National Human Genome Center at Shanghai
+SAMN02949573,389.0,227,4581464,34051,Leptospira interrogans,Leptospira interrogans (bacteria),Chinese National Human Genome Center at Shanghai
+SAMN02949577,518.0,309,4838385,34863,Leptospira interrogans,Leptospira interrogans (bacteria),Chinese National Human Genome Center at Shanghai
+SAMN02949579,442.0,374,4917201,34700,Leptospira interrogans,Leptospira interrogans (bacteria),Chinese National Human Genome Center at Shanghai
+SAMN02949535,257.0,344,4826394,32852,Leptospira interrogans,Leptospira interrogans (bacteria),Chinese National Human Genome Center at Shanghai
+SAMN02949536,244.0,232,4617431,33989,Leptospira interrogans,Leptospira interrogans (bacteria),Chinese National Human Genome Center at Shanghai
+SAMN02949537,269.0,406,4941082,30168,Leptospira interrogans,Leptospira interrogans (bacteria),Chinese National Human Genome Center at Shanghai
+SAMN02949538,197.0,443,4840301,27665,Leptospira interrogans,Leptospira interrogans (bacteria),Chinese National Human Genome Center at Shanghai
+SAMN02949541,308.0,417,4954412,35941,Leptospira interrogans,Leptospira interrogans (bacteria),Chinese National Human Genome Center at Shanghai
+SAMN02949542,244.0,368,4892817,34996,Leptospira interrogans,Leptospira interrogans (bacteria),Chinese National Human Genome Center at Shanghai
+SAMN02949544,315.0,367,4835942,30669,Leptospira interrogans,Leptospira interrogans (bacteria),Chinese National Human Genome Center at Shanghai
+SAMN02949547,395.0,385,4814694,31516,Leptospira interrogans,Leptospira interrogans (bacteria),Chinese National Human Genome Center at Shanghai
+SAMN02949571,144.0,405,4792291,27485,Leptospira interrogans,Leptospira interrogans (bacteria),Chinese National Human Genome Center at Shanghai
+SAMN02949555,178.0,248,4605223,36321,Leptospira interrogans,Leptospira interrogans (bacteria),Chinese National Human Genome Center at Shanghai
+SAMN02949549,155.0,379,4851844,32383,Leptospira interrogans,Leptospira interrogans (bacteria),Chinese National Human Genome Center at Shanghai
+SAMN02949557,339.0,236,4619558,33989,Leptospira interrogans,Leptospira interrogans (bacteria),Chinese National Human Genome Center at Shanghai
+SAMN02949515,231.0,300,4518153,24981,Leptospira interrogans,Leptospira interrogans (bacteria),Chinese National Human Genome Center at Shanghai
+SAMN02949516,221.0,332,4694102,28088,Leptospira interrogans,Leptospira interrogans (bacteria),Chinese National Human Genome Center at Shanghai
+SAMN02949517,553.0,332,4874478,32974,Leptospira interrogans,Leptospira interrogans (bacteria),Chinese National Human Genome Center at Shanghai
+SAMN02949523,255.0,321,4667661,28332,Leptospira interrogans,Leptospira interrogans (bacteria),Chinese National Human Genome Center at Shanghai
+SAMN02949521,634.0,233,4619578,34852,Leptospira interrogans,Leptospira interrogans (bacteria),Chinese National Human Genome Center at Shanghai
+SAMN02949565,345.0,299,4397635,26196,Leptospira interrogans,Leptospira interrogans (bacteria),Chinese National Human Genome Center at Shanghai
+SAMN02949527,616.0,308,4563098,27348,Leptospira interrogans,Leptospira interrogans (bacteria),Chinese National Human Genome Center at Shanghai
+SAMN02949529,341.0,300,4743364,33347,Leptospira interrogans,Leptospira interrogans (bacteria),Chinese National Human Genome Center at Shanghai
+SAMN02949566,322.0,401,4706118,25637,Leptospira interrogans,Leptospira interrogans (bacteria),Chinese National Human Genome Center at Shanghai
+SAMN02949530,195.0,301,4892819,36695,Leptospira interrogans,Leptospira interrogans (bacteria),Chinese National Human Genome Center at Shanghai
+SAMN04555632,96.0,301,4711585,34001,Leptospira interrogans,Leptospira interrogans serovar Bataviae (bacteria),Institute for Medical Research
+SAMN05195242,30.0,2,4583747,4221879,Leptospira interrogans,Leptospira interrogans serovar Copenhageni/Icterohaemorrhagiae (bacteria),Universidade Federal de Pelotas
+SAMN05195243,40.0,106,4522715,49911,Leptospira interrogans,Leptospira interrogans serovar Canicola (bacteria),Universidade Federal de Pelotas
+SAMN04432834,100.0,23,4624182,3804209,Leptospira interrogans,Leptospira interrogans serovar Pomona (bacteria),Instituto Nacional de Tecnologia Agropecuaria
+SAMN06233881,60.0,74,4594696,121968,Leptospira interrogans,Leptospira interrogans serovar Pomona (bacteria),School of Veterinary Medicine and Animal Science / University of Sao Paulo
+SAMN06298621,60.0,47,4775728,202223,Leptospira interrogans,Leptospira interrogans serovar Hardjo (bacteria),School of Veterinary Medicine and Animal Science / University of Sao Paulo
+SAMN06298624,60.0,134,4907133,72766,Leptospira interrogans,Leptospira interrogans serovar Australis (bacteria),School of Veterinary Medicine and Animal Science / University of Sao Paulo
+SAMN07313955,100.0,83,4908744,165528,Leptospira interrogans,Leptospira interrogans (bacteria),Chulalongkorn University
+SAMN07314877,124.47,163,4938346,111967,Leptospira interrogans,Leptospira interrogans (bacteria),Chulalongkorn University
+SAMN06290125,110.0,101,4718976,129474,Leptospira interrogans,Leptospira interrogans serovar Canicola (bacteria),Instituto Nacional de Tecnologia Agropecuaria
+SAMN11289419,30.0,3,4740090,4306144,Leptospira interrogans,Leptospira interrogans (bacteria),Rajarata University of Sri lanka
+SAMN11289420,30.0,2,4651137,4293951,Leptospira interrogans,Leptospira interrogans (bacteria),Rajarata University of Sri lanka
+SAMN11289421,30.0,4,5071735,4497709,Leptospira interrogans,Leptospira interrogans (bacteria),Rajarata University of Sri lanka
+SAMN11774876,98.0,213,4530054,41872,Leptospira interrogans,Leptospira interrogans (bacteria),INRS - Institut Armand-Frappier
+SAMN11774877,98.0,202,4525529,49707,Leptospira interrogans,Leptospira interrogans (bacteria),INRS - Institut Armand-Frappier
+SAMN11774874,98.0,226,4522106,39552,Leptospira interrogans,Leptospira interrogans (bacteria),INRS - Institut Armand-Frappier
+SAMN11774875,98.0,211,4529013,41894,Leptospira interrogans,Leptospira interrogans (bacteria),INRS - Institut Armand-Frappier
+SAMN12588099,215.0,3,4742398,4355568,Leptospira interrogans,Leptospira interrogans serovar Hardjo (bacteria),Londrina State University
+SAMN08513768,31.5296,16,5336364,3284430,Leptospira interrogans,Leptospira interrogans serovar Geyaweera (bacteria),JCVI
+SAMN08596279,498.626,7,5040606,4266484,Leptospira interrogans,Leptospira interrogans serovar Weerasinghe (bacteria),JCVI
+SAMN12567456,888.0,112,4565779,83218,Leptospira interrogans,Leptospira interrogans serovar Copenhageni (bacteria),Oswaldo Cruz Foundation
+SAMN12871420,100.0,4,4758488,4259066,Leptospira interrogans,Leptospira interrogans serovar Canicola (bacteria),Chinese National Human Genome Center at Shanghai
+SAMN12871448,100.0,4,4755342,4255595,Leptospira interrogans,Leptospira interrogans serovar Canicola (bacteria),Chinese National Human Genome Center at Shanghai
+SAMN12567526,152.0,115,4569922,89408,Leptospira interrogans,Leptospira interrogans serovar Copenhageni (bacteria),Oswaldo Cruz Foundation
+SAMN05421689,317.0,57,4594670,133191,Leptospira interrogans,Leptospira interrogans (bacteria),DOE - JOINT GENOME INSTITUTE
+SAMEA104369440,300.0,1,4614703,4614703,Leptospira interrogans,Leptospira interrogans serovar Manilae (bacteria),INSTITUT PASTEUR
