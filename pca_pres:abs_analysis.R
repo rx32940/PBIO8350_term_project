@@ -2,9 +2,9 @@ library(factoextra)
 library(tidyverse)
 library(ggrepel)
 library(ggplot2)
-all_genes <- read.table("/Users/rx32940/Desktop/Leptospira-interrogans-roary/gene_presence_absence.Rtab",header = TRUE,row.names = "Gene")
+all_genes <- read.table("/Users/rx32940/Desktop/pbio8350TermProject/roary_host/gene_presence_absence.Rtab",header = TRUE,row.names = "Gene")
 
-colnames(all_genes) <- 1:440
+colnames(all_genes) <- 1:168
 all_genes <- t(all_genes)
 # colnames(all_genes)
 pca <- prcomp(all_genes)
@@ -22,7 +22,7 @@ pca$x %>%
   as.data.frame %>%
   ggplot(aes(x=PC1,y=PC2,label = rownames(pca$x))) + geom_point(size=1)+
   theme_bw(base_size =12) + # theme and text size
-  geom_text_repel(segment.size=0.2,box.padding = 0)+ # labels use lines to repel from each other
+  geom_text_repel(segment.size=0.5,box.padding = 0)+ # labels use lines to repel from each other
   ggtitle("L. Interrogans Gene Presence VS Absence PCA Analysis")+
   labs(x="PC1 (10.97%)", y="PC2 (9.22%)")
 
