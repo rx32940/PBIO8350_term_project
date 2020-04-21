@@ -12,4 +12,4 @@
 
 module load Roary/3.12.0
 
-roary -e -n -p 12 /home/rx32940/PBIO8350_term_project/host_gff/*.gff -v -f /home/rx32940/PBIO8350_term_project/
+# roary -e -n -p 12 /home/rx32940/PBIO8350_term_project/host_gff/*.gff -v -f /home/rx32940/PBIO8350_term_project/
